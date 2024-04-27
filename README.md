@@ -1,6 +1,6 @@
 # Projeto Laravel de Gerenciamento de Clientes com Cartão
 
-Este projeto foi desenvolvido utilizando o framework Laravel e linguagem PHP para um desafio de um sistema de Gerenciamento de Clientes com Cartão.
+Este projeto foi desenvolvido utilizando o framework Laravel e linguagem PHP para um desafio de um sistema de Gerenciamento de Clientes com Cartão. [FrontEnd NextJS](https://github.com/Ahnitam/nexjs_front_challenge)
 
 ## Descrição
 
