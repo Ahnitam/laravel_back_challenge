@@ -73,9 +73,9 @@ Aqui estão os endpoints do projeto:
         -   `expiration_date`: Data de expiração.
         -   `cvv`: CVV do cartão.
 
-8.  **GET /api/customers/{customer_id}**: Retorna cliente.
+8.  **GET /api/customers/{customer_id}/cards/{card_id}**: Retorna cartão do cliente.
 
-9.  **PUT /api/customers/{customer_id}/cards/{card_id}**: Atualiza cliente.
+9.  **PUT /api/customers/{customer_id}/cards/{card_id}**: Atualiza cartão do cliente.
 
     -   Parâmetros:
         -   `name` (opcional): Nome do cartão.
